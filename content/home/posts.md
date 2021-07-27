@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 65
 
 title: Recent Posts
-subtitle:
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -32,6 +32,7 @@ content:
   order: desc
 
 design:
+
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
