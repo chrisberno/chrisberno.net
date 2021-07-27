@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 # Display name
 title: Chris Berno
 
@@ -68,13 +69,56 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
+=======
+title: Chris Berno
+role: Professor of Artificial Intelligence
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
+organizations:
+  - name: Stanford University
+    url: https://www.stanford.edu/
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
+>>>>>>> b83d3c2af715b9c06a6a2cd37200e822efb7cea5
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+<<<<<<< HEAD
 
 I am a leader of people, process and technology with expertise in techical operations and data center management. My research interests include distributed interactive media, voice as an interface and interactive platform development. I'm currently acting CTO @ The American Society On Aging developing best practices in inclusive UI/UX design and improving connectivity of older adults in under-served bandwith locations.
+=======
+Chris is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+>>>>>>> b83d3c2af715b9c06a6a2cd37200e822efb7cea5
 
 I believe that communication technology provides a framework for what we (humans) can think and ultimately what we can do and that understanding how this tech effects us can lead to better application development standards and ultimately a better web. I'm building this humble blog as an invitation for consturctive dialog and to connect with people who may benefit from my experience and share my passion for what's next..
 
