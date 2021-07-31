@@ -1,6 +1,6 @@
 <p align="center"><a href="https://chrisberno.net" target="_blank" rel="noopener"><img src="https://i.postimg.cc/MGTJDyNY/netizen-trans.png" alt="Hugo + Academic files tor my personal website at chrisberno.net"></a></p>
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+# 1-page Hugo Template for my personal site @ [chrisberno.net](https://chrisberno.net)
 
 The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
