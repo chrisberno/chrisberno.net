@@ -16,8 +16,8 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: RTFM Labs
-    url: 'https://firelabs-v003.web.app'
+  - name: Developer-Labs
+    url: 'https://labs.chrisberno.net/'
     weight: 50
   - name: Contact
     url: '#contact'
