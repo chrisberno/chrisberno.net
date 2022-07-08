@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Chris Berno # Website name
-baseurl: 'https://chrisberno.net' # Website URL
+baseurl: 'https://chrisberno.ml' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
