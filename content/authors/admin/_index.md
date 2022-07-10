@@ -73,7 +73,7 @@ superuser: true
 highlight_name: false
 ---
 
-I am a leader of people, process and technology with expertise in techical operations and data center management. My research interests include distributed interactive media, voice as an interface and interactive platform development. I'm currently acting CTO @ The American Society On Aging developing best practices in inclusive UI/UX design and improving connectivity of older adults in under-served bandwith locations.
+I am a leader of people, process and technology with expertise in techical operations and data center management. My research interests include interactive media, voice as an interface and decentralized application (DAP)testing. I'm currently acting CTO @ The American Society On Aging developing best practices in inclusive UI/UX design and improving connectivity of older adults in under-served bandwith locations.
 
 I believe that communication technology provides a framework for what we (humans) can think and ultimately what we can do and that understanding how this tech effects us can lead to better application development standards and ultimately a better web. I'm building this humble blog as an invitation for consturctive dialog and to connect with people who may benefit from my experience and share my passion for what's next..
 
