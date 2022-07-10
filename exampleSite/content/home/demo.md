@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Welcome to the demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
+Hello, this is a demo of the **academic resumé template** for Wowchemy, the Website Builder for Hugo.
 
 [Explore similar templates](https://wowchemy.com/templates/)
 
